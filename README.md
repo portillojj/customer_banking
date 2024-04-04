@@ -29,7 +29,8 @@ Open the savings_account.py file, and do the following:
 
     - Calculate interest earned.
 
-* Interest on the balance is calculated as follows: interest = balance * (apr/100 * months/12).
+> [!TIP] 
+> **_Interest on the balance is calculated as follows: interest = balance * (apr/100 * months/12)._**
 
     - Update the savings account balance by adding the interest earned.
 
@@ -89,7 +90,7 @@ Open the customer_banking.py file, and do the following:
 ## Installation
 
 ## Usage
-This assigment highlights the usage off Python class and methods for generating customer banking information and calculating interest.
+This assigment highlights the usage of Python class and methods for generating customer banking information and calculating interest.
 
 ## Support
 Some of the code on this assigment was done with the help of a bootcamp tutor.
